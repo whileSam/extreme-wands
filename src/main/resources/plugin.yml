@@ -1,0 +1,8 @@
+main: me.trysam.extremewands.ExtremeWandsPlugin
+name: ExtremeWands
+version: 1.1
+author: Samuel E. // trySam
+api-version: 1.15
+commands:
+  setmana:
+    aliases: [sm]
